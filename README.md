@@ -2,6 +2,14 @@
 
 This repo is for university lab for course "Mobile apps programming"
 
+App to list flights:
+    Departure airport: String
+    Arrival Airport: String
+    Flight date: Date
+    Departure time: Time
+    Arrival Time: Time
+
+
 ### Lab1
 
 Initial commit with basic Ionic components\
